@@ -1,8 +1,4 @@
-You're right! My apologies. It seems I misunderstood your request for a "cheatsheet" and provided a more basic overview. You're looking for a more **comprehensive and detailed cheatsheet** for both **Pandas** and **NumPy**, with more in-depth examples and functionalities.
 
-Let's rectify that! I will provide a much more extensive cheatsheet covering a broader range of functionalities for both libraries. Again, I cannot directly generate a PDF, but you can easily copy and paste the content into a document and save it as a PDF.
-
----
 
 # 🐼 Comprehensive Pandas Cheatsheet: Data Analysis & Manipulation
 
